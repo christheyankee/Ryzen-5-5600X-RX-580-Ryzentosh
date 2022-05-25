@@ -2,3 +2,4 @@ EFI/APPLE
 EFI/debian
 EFI/Microsoft
 .DS_Store
+com.apple.recovery.boot
