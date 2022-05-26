@@ -284,7 +284,7 @@
 				<key>Comment</key>
 				<string>AppleMCEReporter disabler</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
