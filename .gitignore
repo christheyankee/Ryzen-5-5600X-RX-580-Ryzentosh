@@ -3,3 +3,8 @@ EFI/debian
 EFI/Microsoft
 .DS_Store
 com.apple.recovery.boot
+opencore-*
+.Trash*
+.Spotlight*
+.fseventsd*
+EFI/OC/._config.plist
